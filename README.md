@@ -5,7 +5,8 @@ As Santa believes in the Open Source ideology, he therefore intends to upload th
 First, we must set up environment variables.
 
 CHARACTER_SEVEN = 'g'
-NEXT_WEBSITE = 'https://'
+
+NEXT_WEBSITE = 'https://www.pinterest.co.uk/pin/677299231456994399/'
 
 ## Running the App
 Coming soon (Santa needs to figure out how to commit all his code first - I'm sure the stackoverflow elves will help out)
